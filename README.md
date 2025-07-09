@@ -14,7 +14,7 @@ It was built with the help of **ChatGPT** to make your web experience more enjoy
 
 ## 🔗 How to Use
 
-1. Go to **[Insert your app link here]**
+1. Go to **https://moshebraun.github.io/My-Apps/**
 2. Save it as a bookmark in your browser
 3. Open it anytime to access your dynamic bookmarks view
 
